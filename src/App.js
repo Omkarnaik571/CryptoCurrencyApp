@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="coin-app">
       <div className="coin-search">
-        <h1 className="coin-text">Investopedia</h1>
+        <h1 className="coin-text">Crypto Hub</h1>
         <h5 className="coin-text">
           © - 2021, Designed & developed by,
           <span
