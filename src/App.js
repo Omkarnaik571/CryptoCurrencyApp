@@ -31,12 +31,12 @@ function App() {
       <div className="coin-search">
         <h1 className="coin-text">Crypto Hub</h1>
         <h5 className="coin-text">
-          © - 2021, Designed & developed by,
+          © - 2020, Designed & developed by,
           <span
             className="text-primary"
             style={{ marginLeft: "7px", color: "#ce93d8" }}
           >
-            Omkar Naik
+            OMKAR NAIK
           </span>
         </h5>
         <form>
